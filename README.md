@@ -1,6 +1,9 @@
 # TicTacToe
 TicTacToe Next.js project made to learn React Hooks
 
+![Tela de jogo](public/tictactoe1.png)
+![Tela de vitoria](public/tictactoe2.png)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
